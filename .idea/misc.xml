@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/bakery_back.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/basketball.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/cricket.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/cupcake.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/eclair.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/ic_baseline_sports_basketball_24.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/ic_baseline_storefront_24.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/jellybean.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/kitkat.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/new_img.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/nougat.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/drawable/oreo.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/menu/main_menu.xml" value="0.275" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/DessertClicker-Starter/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker_round.xml" value="0.24537037037037038" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
